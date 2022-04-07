@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/396a735b993cb232e36d0755d7337ad.jpg" width="100%">   
+      <img src="/zhaopian.jpg" width="100%">   
             <h1>shuangquan Zou</h1>
             <p><b>Harbin Institute of Technology(HIT)</b></p>
   </td>
