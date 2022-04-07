@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liqun Zhao</title>
-    <link>https://LiqunZhao.github.io/</link>
-      <atom:link href="https://LiqunZhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zyyzuibang.github.io/shuangquanzou.github.io/</link>
+      <atom:link href="https://zyyzuibang.github.io/shuangquanzou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Liqun Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zyyzuibang.github.io/shuangquanzou.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Liqun Zhao</title>
-      <link>https://LiqunZhao.github.io/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://LiqunZhao.github.io/courses/example/example1/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://LiqunZhao.github.io/courses/example/example1/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://LiqunZhao.github.io/courses/example/example2/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://LiqunZhao.github.io/courses/example/example2/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://LiqunZhao.github.io/talk/example/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://LiqunZhao.github.io/talk/example/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title> Study on Trajectory Planning for Autonomous Driving by Using Astar Algorithm and Quadratic Programming</title>
-      <link>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
-      <guid>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</guid>
       <description>&lt;p&gt;Advisor: Prof. 
 &lt;a href=&#34;https://scholar.google.com/citations?user=8m8taGEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masayoshi Tomizuka&lt;/a&gt;,  IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley&lt;/p&gt;
 &lt;ul&gt;
@@ -111,10 +111,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;979&#34; height=&#34;540&#34;&gt;
+  &lt;img data-src=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;979&#34; height=&#34;540&#34;&gt;
 &lt;/a&gt;
 
 
@@ -148,10 +148,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;554&#34; height=&#34;255&#34;&gt;
+  &lt;img data-src=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;554&#34; height=&#34;255&#34;&gt;
 &lt;/a&gt;
 
 
@@ -167,9 +167,9 @@
     
     <item>
       <title>A Novel Shape Detection Method for Continuum Soft Manipulator Based on Cable Encoder</title>
-      <link>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
-      <guid>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</guid>
       <description>&lt;p&gt;Advisor: Prof. 
 &lt;a href=&#34;https://ieeexplore.ieee.org/author/37271464700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guangfu Ma&lt;/a&gt;, Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
 &lt;ul&gt;
@@ -200,17 +200,17 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1030&#34; height=&#34;346&#34;&gt;
+  &lt;img data-src=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1030&#34; height=&#34;346&#34;&gt;
 &lt;/a&gt;
 
 
 
 &lt;/figure&gt;
 &lt;/li&gt;
-&lt;li&gt;My work is to detect the shape of the manipulator based on the cable encoders with the help of Matlab. For more detailed information concerning shape reconstruction, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/A%20novel%20shape%20detection%20method%20for%20continuum%20soft%20manipulator%20based%20on%20cable%20encoders.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;My work is to detect the shape of the manipulator based on the cable encoders with the help of Matlab. For more detailed information concerning shape reconstruction, please refer to this &lt;a href=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/files/A%20novel%20shape%20detection%20method%20for%20continuum%20soft%20manipulator%20based%20on%20cable%20encoders.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Improved B-spline curves are applied to make sure that the planned trajectory will reach all the points set beforehand instead of just getting close to them.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -218,9 +218,9 @@
     
     <item>
       <title>Study on Quantitative Microinjection Technology and Automatic Tracking of Zebrafish</title>
-      <link>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
-      <guid>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</guid>
       <description>&lt;p&gt;Advisor: Prof. 
 &lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
 &lt;ul&gt;
@@ -246,7 +246,7 @@
   &lt;source src=&#34;my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/li&gt;
 &lt;li&gt;A closed-loop control system is designed by using fuzzy control added to PID to control the pump so as to control the injection volume when doing the quantitative microinjection&lt;/li&gt;
-&lt;li&gt;For more detailed information, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/DanioSense%20Automated%20High-throughput%20Quantification%20of%20Zebrafish%20Larvae%20Group%20Movement.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, which is submitted to 
+&lt;li&gt;For more detailed information, please refer to this &lt;a href=&#34;https://zyyzuibang.github.io/shuangquanzou.github.io/files/DanioSense%20Automated%20High-throughput%20Quantification%20of%20Zebrafish%20Larvae%20Group%20Movement.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, which is submitted to 
 &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Automation Science and Engineering&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -254,17 +254,17 @@
     
     <item>
       <title>A novel shape detection method for continuum soft manipulator based on cable encoders</title>
-      <link>https://LiqunZhao.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
-      <guid>https://LiqunZhao.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://LiqunZhao.github.io/post/writing-technical-content/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiqunZhao.github.io/post/writing-technical-content/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -480,9 +480,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://LiqunZhao.github.io/post/jupyter/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiqunZhao.github.io/post/jupyter/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -529,9 +529,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://LiqunZhao.github.io/slides/example/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiqunZhao.github.io/slides/example/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -663,17 +663,17 @@ Three
     
     <item>
       <title>DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement</title>
-      <link>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0800</pubDate>
-      <guid>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://LiqunZhao.github.io/post/getting-started/</link>
+      <link>https://zyyzuibang.github.io/shuangquanzou.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://LiqunZhao.github.io/post/getting-started/</guid>
+      <guid>https://zyyzuibang.github.io/shuangquanzou.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
