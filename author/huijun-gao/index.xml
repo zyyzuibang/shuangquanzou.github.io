@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huijun Gao | Liqun Zhao</title>
+    <link>https://LiqunZhao.github.io/author/huijun-gao/</link>
+      <atom:link href="https://LiqunZhao.github.io/author/huijun-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huijun Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 May 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Huijun Gao</title>
+      <link>https://LiqunZhao.github.io/author/huijun-gao/</link>
+    </image>
+    
+    <item>
+      <title>DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

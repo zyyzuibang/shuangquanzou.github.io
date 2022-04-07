@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Liqun Zhao</title>
+    <link>https://LiqunZhao.github.io/project/</link>
+      <atom:link href="https://LiqunZhao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://LiqunZhao.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title> Study on Trajectory Planning for Autonomous Driving by Using Astar Algorithm and Quadratic Programming</title>
+      <link>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://scholar.google.com/citations?user=8m8taGEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masayoshi Tomizuka&lt;/a&gt;,  IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The overview of the architecture is below:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;979&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;In this project, we designed a motion planning method based on Astar algorithm which has the advantage of time-bounded collison-free path generation for urban autonomous vehicles. The whole algorithm is shown by following table:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;554&#34; height=&#34;255&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Then the optimization(convex quadratic programming) is applied by using active set method.&lt;/li&gt;
+&lt;li&gt;This project is supported by Autonomous Driving Group within Mechanical Engineering Dept. at UC Berkeley, for detailed information concerning the group, please click 
+&lt;a href=&#34;https://msc.berkeley.edu/research//autonomous-vehicle.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Novel Shape Detection Method for Continuum Soft Manipulator Based on Cable Encoder</title>
+      <link>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://ieeexplore.ieee.org/author/37271464700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guangfu Ma&lt;/a&gt;, Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The control system architecture of the soft manipulator is shown below:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1030&#34; height=&#34;346&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;My work is to detect the shape of the manipulator based on the cable encoders with the help of Matlab. For more detailed information concerning shape reconstruction, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/A%20novel%20shape%20detection%20method%20for%20continuum%20soft%20manipulator%20based%20on%20cable%20encoders.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Improved B-spline curves are applied to make sure that the planned trajectory will reach all the points set beforehand instead of just getting close to them.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study on Quantitative Microinjection Technology and Automatic Tracking of Zebrafish</title>
+      <link>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There is a video which represents the performance of the algorithm here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;A closed-loop control system is designed by using fuzzy control added to PID to control the pump so as to control the injection volume when doing the quantitative microinjection&lt;/li&gt;
+&lt;li&gt;For more detailed information, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/DanioSense%20Automated%20High-throughput%20Quantification%20of%20Zebrafish%20Larvae%20Group%20Movement.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, which is submitted to 
+&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Automation Science and Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
