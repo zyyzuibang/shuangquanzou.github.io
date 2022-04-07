@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision-making | Liqun Zhao</title>
+    <link>https://LiqunZhao.github.io/tag/decision-making/</link>
+      <atom:link href="https://LiqunZhao.github.io/tag/decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decision-making</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Decision-making</title>
+      <link>https://LiqunZhao.github.io/tag/decision-making/</link>
+    </image>
+    
+    <item>
+      <title> Study on Trajectory Planning for Autonomous Driving by Using Astar Algorithm and Quadratic Programming</title>
+      <link>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://scholar.google.com/citations?user=8m8taGEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masayoshi Tomizuka&lt;/a&gt;,  IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The overview of the architecture is below:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/frame_hu677c5ea66aeb5969e8605e656a1bebaa_89679_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;979&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;In this project, we designed a motion planning method based on Astar algorithm which has the advantage of time-bounded collison-free path generation for urban autonomous vehicles. The whole algorithm is shown by following table:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/study-on-trajectory-planning-for-autonomous-driving-by-using-a-algorithm-and-quadratic-programming/algorithm_hu055198f3fb46ca11ed4f1106d5980bda_56937_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;554&#34; height=&#34;255&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Then the optimization(convex quadratic programming) is applied by using active set method.&lt;/li&gt;
+&lt;li&gt;This project is supported by Autonomous Driving Group within Mechanical Engineering Dept. at UC Berkeley, for detailed information concerning the group, please click 
+&lt;a href=&#34;https://msc.berkeley.edu/research//autonomous-vehicle.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNN | Liqun Zhao</title>
+    <link>https://LiqunZhao.github.io/tag/cnn/</link>
+      <atom:link href="https://LiqunZhao.github.io/tag/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>CNN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CNN</title>
+      <link>https://LiqunZhao.github.io/tag/cnn/</link>
+    </image>
+    
+    <item>
+      <title>Study on Quantitative Microinjection Technology and Automatic Tracking of Zebrafish</title>
+      <link>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/study-on-quantitative-microinjection-technology-and-automatic-tracking-of-zebrafish/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There is a video which represents the performance of the algorithm here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;A closed-loop control system is designed by using fuzzy control added to PID to control the pump so as to control the injection volume when doing the quantitative microinjection&lt;/li&gt;
+&lt;li&gt;For more detailed information, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/DanioSense%20Automated%20High-throughput%20Quantification%20of%20Zebrafish%20Larvae%20Group%20Movement.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, which is submitted to 
+&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Automation Science and Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

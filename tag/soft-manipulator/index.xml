@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Manipulator | Liqun Zhao</title>
+    <link>https://LiqunZhao.github.io/tag/soft-manipulator/</link>
+      <atom:link href="https://LiqunZhao.github.io/tag/soft-manipulator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soft Manipulator</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://LiqunZhao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Soft Manipulator</title>
+      <link>https://LiqunZhao.github.io/tag/soft-manipulator/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Shape Detection Method for Continuum Soft Manipulator Based on Cable Encoder</title>
+      <link>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/</guid>
+      <description>&lt;p&gt;Advisor: Prof. 
+&lt;a href=&#34;https://ieeexplore.ieee.org/author/37271464700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guangfu Ma&lt;/a&gt;, Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The control system architecture of the soft manipulator is shown below:
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://LiqunZhao.github.io/project/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoder/frame_hud13b0d4377bf33371f52c4faa284ddfd_291794_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1030&#34; height=&#34;346&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;My work is to detect the shape of the manipulator based on the cable encoders with the help of Matlab. For more detailed information concerning shape reconstruction, please refer to this &lt;a href=&#34;https://LiqunZhao.github.io/files/A%20novel%20shape%20detection%20method%20for%20continuum%20soft%20manipulator%20based%20on%20cable%20encoders.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Improved B-spline curves are applied to make sure that the planned trajectory will reach all the points set beforehand instead of just getting close to them.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A novel shape detection method for continuum soft manipulator based on cable encoders</title>
+      <link>https://LiqunZhao.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://LiqunZhao.github.io/publication/a-novel-shape-detection-method-for-continuum-soft-manipulator-based-on-cable-encoders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
