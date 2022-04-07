@@ -1,4 +1,18 @@
 ## Biography
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/zhengjianzhao.jpg" width="100%">   
+            <h1>shuangquan Zou</h1>
+            <p><b>Harbin Institute of Technology(HIT)</b></p>
+  </td>
+    <td width="50%">
+      <p><b>硕士研究生</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+  </tr>
+</table>
 
 Liqun Zhao is currently a bachelor student majoring in Automation within the school of Astronautics, Harbin Institute of Technology, and will receive his bachelor degree in 2021 under the supervision from Prof. Huijun Gao. During his undergraduate period, he also studied at the University of Adelaide as an international exchange student, and worked as an research assistant supervised by Prof. Masayoshi Tomizuka in Mechanical Systems Control Lab at UC Berkeley. His research interests include modeling, design of control systems, soft manipulators, detection, estimation and tracking by computer vision, as well as planning and optimization, especially for autonomous vehicles.
 
